@@ -1,0 +1,3 @@
+Sordeign Commadant Plate:
+Unyielding: When the wearer is subjected to an effect that would move it, knock it prone, or both, it can use its reaction to be neither moved nor knocked prone. (effects such as a wind spell or teleportation)
+Inspiring Commander: Once per day wearer chooses up to 6 willing creatures within 30ft. Each creature can take either 4 temp HP that replenish each round for 1 min. Or add 1d4 damage to one attack per round for 1 min. Concentration.
