@@ -14,7 +14,7 @@ body {
 }
 
 .loriet {
-    font-size: 400px;
+    font-size: 200px;
     color: rgb(127, 251, 255);
     margin-top: 500px;
     margin-bottom: 60px;
@@ -37,7 +37,7 @@ ul {
 }
 
 ul li {
-    font-size: 200px;
+    font-size: 100px;
     color: aliceblue;
     display: inline-block;
     -webkit-text-stroke: 3px;
