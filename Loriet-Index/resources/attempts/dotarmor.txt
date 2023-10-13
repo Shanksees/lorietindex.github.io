@@ -1,0 +1,27 @@
+.armor {
+    background-image: url("../Loriet-Index/resources/imagesLoriet/Endringer_Final.png");
+    height: 600px;
+    width: 600px;
+    text-align: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+.mappic {
+    background-image: url("../Loriet-Index/resources/imagesLoriet/Loriet_Fog_Map.jpg");
+    height: 600px;
+    width: 600px;
+    text-align: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.map {
+    font-size: 90px;
+    font-weight: 700;
+    -webkit-text-stroke: 2px;
+    -webkit-text-stroke-color: aliceblue;
+}
+
+
